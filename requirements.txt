@@ -1,0 +1,9 @@
+docling
+transformers
+tqdm
+ipywidgets
+jupyter
+accelerate
+datasets
+bitsandbytes
+peft
