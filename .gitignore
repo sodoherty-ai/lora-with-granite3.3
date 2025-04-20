@@ -1,0 +1,5 @@
+.idea/
+.venv/
+/data/watson-assistant.md
+/data/watson-assistant.pdf
+/data/chunks.jsonl
