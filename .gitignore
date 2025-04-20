@@ -3,3 +3,5 @@
 /data/watson-assistant.md
 /data/watson-assistant.pdf
 /data/chunks.jsonl
+/model/granite3.3-lora/
+/model/granite3.3-lora-adapter/
